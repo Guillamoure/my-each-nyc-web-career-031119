@@ -5,10 +5,3 @@ def my_each(array)
 end
 end
 
-=begin
-def something(array)
-  array.each do |n|
-   puts n 
-  end
-end
-=end
